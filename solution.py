@@ -7,7 +7,6 @@ def task1():
     print ("My name is " + name + " and I am " +str(age)+ " years old ")
     
 
-
 #Task-2: Data type and Data Types and Type Conversion
 def task2():
     num1 = 10
